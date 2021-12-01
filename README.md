@@ -3,7 +3,7 @@
 Deauth detection written in rust.
 
 # Get Started
-Pass as argument an interface nad optionally a threshold.
+Pass as argument an interface and optionally a threshold.
 ```
 ./deauth_detector en1
 ```
